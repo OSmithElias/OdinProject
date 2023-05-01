@@ -1,0 +1,12 @@
+/* Using type selector to style
+ */
+ 
+ div {
+    background-color: red;
+    color: white;
+    font-size: '32px';
+    font-weight:bold;
+    align-content: center;
+    
+    
+ }
